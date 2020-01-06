@@ -1,0 +1,80 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+    position: relative;
+
+}
+
+.head1 {
+    text-align: center;
+    margin-left: 160px;
+} 
+
+.botmarg {
+    border-bottom: black 1px solid;
+    margin-bottom: 1px;
+}
+
+#head1 {
+    text-align: center;
+    margin-left: 90px;
+} 
+
+.nav1>a {
+    display: inline-block;
+    padding-top: 30px;
+
+}
+.link1 {
+    width: 150px;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.group {
+    width: 810px;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    border-left: 1px solid black;
+    padding-left: 10px;
+    text-align: justify;
+}
+
+#fig1, #fig2  {
+    position: relative;
+    left: 25%;
+}
+
+#s1, #s2, #s3 {
+    border: solid 3px black;
+    padding: 3px;
+}
+
+#s3 {
+    position: relative;
+    left: 90px;
+} /* center pos. picture */
+
+section {
+    display: inline-block;
+}
+
+#head2, #head3 {
+    text-align: center;
+}
+
+.footer1 {
+    border-top: 1px black solid;
+    margin-top: 8px;
+    text-align: center;
+}
+#table1, th, tr, td {
+    border: black 1px solid;
+    border-collapse: collapse;
+    padding: 6px;
+}
